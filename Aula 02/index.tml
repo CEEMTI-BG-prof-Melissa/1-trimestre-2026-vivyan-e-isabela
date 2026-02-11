@@ -5,3 +5,19 @@
   divs pra organização da página
   uma lista com no minimo 3 itens 
   uma imagem
+
+<!doctype html>
+<html lang = "pt-br">
+ <head>
+  <title> Meio ambiente </title>
+<div>
+    <p> O meio ambiente é o conjunto de elementos físicos, químicos e biológicos (fauna, flora, clima, solo, água) que interagem entre si, permitindo e regendo todas as formas de vida na Terra. Ele compreende tanto o ambiente natural quanto o construído, sendo crucial para o desenvolvimento humano e a sobrevivência
+   O desequilíbrio ambiental provoca consequências como a redução da biodiversidade, escassez hídrica e aumento de desastres. A preservação ambiental é essencial para a vida, sendo o Dia Mundial do Meio Ambiente comemorado em 5 de junho. </p>
+    <img src= https://www.todamateria.com.br/tudo-sobre-meio-ambiente/>
+</div>
+
+  <meta charset = "utf-8">
+ </head>
+ <body>
+ </body>
+</html>
