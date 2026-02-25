@@ -1,11 +1,3 @@
-- ter como  HTML5
-- conter:
-  um titulo principal com o tema
-  um paragrafo de apresentação explicando o tema escolhido
-  divs pra organização da página
-  uma lista com no minimo 3 itens 
-  uma imagem
-
 <!doctype html>
 <html lang = "pt-br">
  <head>
